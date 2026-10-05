@@ -1,6 +1,6 @@
 # Hi 👋 
 
-### <img src="https://herokuapp.com" alt="Typing SVG" />
+### [![Typing SVG](https://herokuapp.com)](https://git.io)
 
 ## 👤 About Me
 I'm a Backend-Focused MERN Stack Developer from India who enjoys building scalable, production-ready web applications.
@@ -13,4 +13,3 @@ I'm a Backend-Focused MERN Stack Developer from India who enjoys building scalab
 
 ## 🌐 Connect with me
 [![LinkedIn](https://shields.io)](https://linkedin.com)
-
