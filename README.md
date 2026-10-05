@@ -1,6 +1,10 @@
 # Hi 👋 
-Rishabh Dev Kumar
-### <img src="https://demolab.com" alt="Typing SVG" />
+
+<p align="left">
+  <a href="https://git.io">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 👤 About Me
 I'm a Backend-Focused MERN Stack Developer from India who enjoys building scalable, production-ready web applications.
