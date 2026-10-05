@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Rishabh Dev Kumar
 
-<!--
-**rishabhdevkumar/rishabhdevkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://herokuapp.com" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+## 👤 About Me
+I'm a Backend-Focused MERN Stack Developer from India who enjoys building scalable, production-ready web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+- **Frontend:** React, Redux, HTML5, CSS3, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+## 🌐 Connect with me
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
