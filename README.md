@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rishabh Dev Kumar
+# Hi 👋 
 
 ### <img src="https://herokuapp.com" alt="Typing SVG" />
 
